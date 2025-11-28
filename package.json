@@ -1,7 +1,21 @@
 {
-  "name": "my-v0-project",
+  "name": "netscout",
   "version": "0.1.0",
+  "description": "A comprehensive IT product finder and comparison tool for network equipment.",
   "private": true,
+  "author": "RoberaET",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RoberaET/Netscout.git"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "tailwindcss",
+    "shadcn-ui",
+    "product-finder",
+    "network-equipment"
+  ],
   "scripts": {
     "build": "next build",
     "dev": "next dev",
